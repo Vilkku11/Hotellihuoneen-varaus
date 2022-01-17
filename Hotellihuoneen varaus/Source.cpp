@@ -132,9 +132,6 @@ int main() {
 
 
 
-
-
-
 		// Ruudun tyhjennys seuraavaa varausta tai lopputervehdystä varten
 		system("CLS");
 

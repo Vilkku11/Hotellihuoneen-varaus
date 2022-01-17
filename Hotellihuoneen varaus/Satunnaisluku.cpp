@@ -1,3 +1,4 @@
+
 // ALiohjelma huoneiden m‰‰r‰n muodostamiseen. Luo parillisen satunnaisluvun v‰lilt‰ 40-80.
 
 

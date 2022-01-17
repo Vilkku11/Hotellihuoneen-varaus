@@ -7,14 +7,13 @@ using namespace std;
 int Huoneet(int* Huoneiden_maara, int* yhden_hengen_huoneiden_maara, int* kahden_hengen_huoneiden_maara) {
 
 
-
+	// Ääkkösten asettaminen
 	setlocale(LC_ALL, "fi-FI");
 	int Huonetyyppi;
 	int yo_maara;
 	int Hinta_alku = 0;
 	int Asiakkaan_hyvaksyminen;
 	bool virhe = false;
-
 
 
 
